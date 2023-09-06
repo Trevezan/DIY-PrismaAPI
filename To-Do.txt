@@ -1,0 +1,1 @@
+° Fix the HTTPException (same email is throwing "Servers Status Error")
